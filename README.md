@@ -1,28 +1,43 @@
-# Hi, I'm Muhammad Ahmad Khan
+<div align="center">
 
-Final-year CS student at UET Peshawar and AI/ML intern at K2X Tech. I build RAG and LLM systems and research how to secure them against attacks like prompt injection.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Ahmad%20Khan&fontSize=42&fontColor=ffffff&desc=AI%2FML%20%7C%20RAG%20%26%20LLM%20Systems%20%7C%20MCP%20Security&descSize=16&descAlignY=70)
 
-## What I'm working on
+Final-year CS student at UET Peshawar, AI/ML intern at K2X Tech.
+I build RAG and LLM systems and research how to secure them against prompt injection.
 
-- **AdaptiShield (FYP):** a security gateway and live monitoring dashboard that protects AI agents from prompt injection
-- **MCP security research:** studying how tool-connected agents get attacked and how to defend them
-- **Data pipelines at K2X Tech:** [one line on what you build there]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadahmadkhan14aug/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-## Projects
+</div>
+
+## Currently
+
+- Building **AdaptiShield**, a gateway and live dashboard that protects AI agents from prompt injection
+- Researching MCP security: how tool-connected agents get attacked and how to defend them
+- Building data pipelines at K2X Tech: [one line on what you do]
+- Shipping **resume-analyzer** as a deployed full-stack app
+
+## Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [adaptishield_FYP](https://github.com/ahmadkhanraj01/adaptishield_FYP) | Gateway and dashboard that detects and blocks prompt injection against AI agents | Python |
-| [RAG-UET-Chatbot-Public](https://github.com/ahmadkhanraj01/RAG-UET-Chatbot-Public) | RAG chatbot answering UET Peshawar student questions on fees, admissions, hostels and rules | Python |
-| [SystemServiceMaker](https://github.com/ahmadkhanraj01/SystemServiceMaker) | Linux CLI that turns 5 manual systemd steps into one command | C |
-| [Linux_FileSearch_Project](https://github.com/ahmadkhanraj01/Linux_FileSearch_Project) | Fast file search with a C++ backend and Tkinter GUI | C++, Python |
+| [adaptishield_FYP](https://github.com/ahmadkhanraj01/adaptishield_FYP) | Blocks prompt injection attacks on AI agents, with live monitoring | Python |
+| [resume-analyzer](https://github.com/ahmadkhanraj01/resume-analyzer) | Match score, skill gaps and interview questions from a resume and job description | Python |
+| [RAG-UET-Chatbot-Public](https://github.com/ahmadkhanraj01/RAG-UET-Chatbot-Public) | Answers UET Peshawar student questions on fees, admissions, hostels and rules | Python, RAG |
+| [SystemServiceMaker](https://github.com/ahmadkhanraj01/SystemServiceMaker) | Replaces 5 manual systemd steps with one command | C |
 
-## Tech
+## Tech stack
 
-**AI/ML:** Python, RAG, LLMs, embeddings, vector search
-**Systems:** C, C++, Linux
-**Other:** Flutter, React/Vite, FPGA
+<div align="center">
 
-## Contact
+![Tech](https://skillicons.dev/icons?i=py,c,cpp,flutter,dart,react,vite,linux,mysql,git,github&perline=11)
 
-[LinkedIn](https://www.linkedin.com/in/muhammadahmadkhan14aug/) | [ahmadkhanraj01@gmail.com]
+</div>
+
+**AI/ML:** RAG, LLMs, embeddings, vector search, prompt injection defense
+**Hardware:** FPGA
+**Also:** C/Linux system programming, data pipeline engineering
+
+## Let's talk
+
+Open to AI/ML and LLM security internships, research collaboration and interesting projects. The fastest way to reach me is LinkedIn.
