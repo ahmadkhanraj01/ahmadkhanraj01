@@ -25,4 +25,4 @@ Final-year CS student at UET Peshawar and AI/ML intern at K2X Tech. I build RAG 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/muhammadahmadkhan14aug/) | [your email]
+[LinkedIn](https://www.linkedin.com/in/muhammadahmadkhan14aug/) | [ahmadkhanraj01@gmail.com]
