@@ -5,7 +5,7 @@ Final-year CS student at UET Peshawar, AI/ML intern at K2X Tech.
 I build RAG and LLM systems and research how to secure them against prompt injection.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadahmadkhan14aug/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadkhanraj01@gmail.com)
 
 </div>
 
